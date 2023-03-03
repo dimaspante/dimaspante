@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <hr style="height:1px">
+  <hr style="height:1px!important">
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="composer" alt="composer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="digitalocean" alt="digitalocean" width="40" height="40"/>&nbsp;
@@ -37,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <hr style="height:1px">
+  <hr style="height:1px!important">
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimaspante&theme=gruvbox&hide_border=true&border_radius=8&locale=pt_BR)](https://git.io/streak-stats)
