@@ -7,14 +7,17 @@
 ## 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/dimaspante/">
+  <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/dimaspante/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/dimaspante">
+  <a target="_blank" rel="noopener" href="https://www.facebook.com/dimaspante">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/dimaspante/">
+  <a target="_blank" rel="noopener" href="https://www.instagram.com/dimaspante/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a target="_blank" rel="noopener" href="https://buymeacoffee.com/dimaspante/">
+    <img src="https://img.shields.io/badge/buy_me_a_coffee-yellow" alt="Buy me a Coffee!"/>
   </a>
 </div>
 
