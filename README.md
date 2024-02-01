@@ -1,7 +1,7 @@
 ### Olá!
 
 <a style="font-size:1rem" href="https://valutech.io">
-    <img src="https://img.shields.io/badge/style-Valutech-purple?label=Descubra o valor da sua empresa" alt="Valutech"/>
+    <img alt="Valutech" src="https://img.shields.io/badge/style-Valutech-purple?label=Descubra quanto vale sua empresa"/>
 </a>
 
 <a style="text-decoration:none" target="_blank" rel="noopener" href="https://buymeacoffee.com/dimaspante/">
