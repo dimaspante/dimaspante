@@ -4,20 +4,21 @@
     <img src="https://img.shields.io/badge/style-Valutech-purple?label=Descubra o valor da sua empresa" alt="Valutech"/>
 </a>
 
+<a style="text-decoration:none" target="_blank" rel="noopener" href="https://buymeacoffee.com/dimaspante/">
+    <img src="https://img.shields.io/badge/buy_me_a_coffee-yellow" alt="Buy me a Coffee!"/>
+</a>
+
 ## 
 
 <div id="badges">
-  <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/dimaspante/">
+  <a style="text-decoration:none" target="_blank" rel="noopener" href="https://www.linkedin.com/in/dimaspante/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a target="_blank" rel="noopener" href="https://www.facebook.com/dimaspante">
+  <a style="text-decoration:none" target="_blank" rel="noopener" href="https://www.facebook.com/dimaspante">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a target="_blank" rel="noopener" href="https://www.instagram.com/dimaspante/">
+  <a style="text-decoration:none" target="_blank" rel="noopener" href="https://www.instagram.com/dimaspante/">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a target="_blank" rel="noopener" href="https://buymeacoffee.com/dimaspante/">
-    <img src="https://img.shields.io/badge/buy_me_a_coffee-yellow" alt="Buy me a Coffee!"/>
   </a>
 </div>
 
