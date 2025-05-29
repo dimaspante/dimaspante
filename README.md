@@ -1,7 +1,7 @@
 ### Olá!
 
 <a style="font-size:1rem" href="https://valutech.io">
-    <img alt="Valutech" src="https://img.shields.io/badge/style-Valutech-purple?label=Descubra quanto vale sua empresa"/>
+    <img alt="Valutech" src="https://img.shields.io/badge/valutech"/>
 </a>
 
 <a style="text-decoration:none" target="_blank" rel="noopener" href="https://buymeacoffee.com/dimaspante/">
@@ -36,7 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="laravel" alt="laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="illustrator" alt="illustrator" width="40" height="40"/>&nbsp;
