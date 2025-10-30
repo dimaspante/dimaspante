@@ -1,6 +1,6 @@
 ### Olá!
 
-https://img.shields.io/badge/valutech-software-purple?style=flat&link=https%3A%2F%2Fvalutech.io
+![Static Badge](https://img.shields.io/badge/valutech-software-purple?style=flat&link=https%3A%2F%2Fvalutech.io)
 
 ## 
 
