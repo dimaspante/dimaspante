@@ -1,12 +1,6 @@
 ### Olá!
 
-<a style="font-size:1rem" href="https://valutech.io">
-    <img alt="Valutech" src="https://img.shields.io/badge/valutech"/>
-</a>
-
-<a style="text-decoration:none" target="_blank" rel="noopener" href="https://buymeacoffee.com/dimaspante/">
-    <img src="https://img.shields.io/badge/buy_me_a_coffee-yellow" alt="Buy me a Coffee!"/>
-</a>
+https://img.shields.io/badge/valutech-software-purple?style=flat&link=https%3A%2F%2Fvalutech.io
 
 ## 
 
